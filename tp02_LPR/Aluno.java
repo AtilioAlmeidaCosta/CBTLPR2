@@ -1,5 +1,7 @@
 import java.util.UUID;
-
+/*
+Atilio Almeida Costa & João Victor Crivoi
+*/
 public class Aluno {
     private String endereco;
     private int idade;
