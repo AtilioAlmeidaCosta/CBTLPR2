@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-// Atilio Almeida Costa e João Victor Crivoi
+// Atilio Almeida Costa & João Victor Crivoi
 public class AlunoForm extends JFrame {
 
     private JTextField campoNome;
